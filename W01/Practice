@@ -1,0 +1,7 @@
+#this is just a coment 
+
+a = "His name is "
+b = "John"
+c = a + b
+print(F"a: {type(a)} {a}")
+

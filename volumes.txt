@@ -1,0 +1,14 @@
+2022-09-22, 185, 50, 14, 24.09
+2022-09-22, 205, 60, 15, 39.92
+The user's phone is: 8016036767
+2022-09-22, 205, 60, 15, 39.92
+2022-09-22, 205, 60, 15, 39.92
+The user's phone is: 8016036767
+
+
+The currtent date is: Thursday, September, 22, 2022, 19:44:29.
+The Width of the Tire is: 205
+The Aspect Ration of the Tire is: 60
+The Diameter of the Tire is: 15
+The Volume of the Tire is: 39.92
+The user's phone is: 8545689543
